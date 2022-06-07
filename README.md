@@ -6,4 +6,4 @@
   + linkedin.com/in/nguyenngo98/
 
 ![nguyen703's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyen703&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen703&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen703&layout=compact)](https://github.com/nguyen703/github-readme-stats)
