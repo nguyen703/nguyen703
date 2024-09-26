@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nguyen703
-- 👀 I’m interested in coding and exploring new things :D
+- 👀 I love bringing real values to a business
+- I'm Viet 🇻🇳, currently in 🇫🇷 for my master degree @umontpellier
 - 📫 How to reach me:
   + nguyenngohoai98@gmail.com
   + linkedin.com/in/nguyenngo98/
