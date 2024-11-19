@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nguyen703
 - 👀 I love bringing real values to a business
-- I'm Viet 🇻🇳, currently in 🇫🇷 for my master degree @umontpellier
+- Speak 🇻🇳🇬🇧🇫🇷
 - 📫 How to reach me:
   + nguyenngohoai98@gmail.com
   + linkedin.com/in/nguyenngo98/
