@@ -3,7 +3,7 @@
 - 🇻🇳 I'm Vietnamese, and I can speak 🇬🇧🇫🇷
 - 📫 How to reach me:
   + nguyenngohoai98@gmail.com
-  + linkedin.com/in/nguyenngo98/
+  + [LinkedIn](https://www.linkedin.com/in/nguyenngo98/)
 - 🍵 Take a look at my [Thésaurus app](https://app-thesaurus.studio/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F118V9KH)
