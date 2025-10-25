@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nguyen703
 - 👀 I love bringing real values to a business
-- 🇻🇳 I'm Vietnamese, and I can speak 🇬🇧🇫🇷
+- ☀️ Master 2 in Software Engineering at @umontpellier
+- 🇻🇳 I speak 🇬🇧🇫🇷
 - 📫 How to reach me:
   + nguyenngohoai98@gmail.com
   + [LinkedIn](https://www.linkedin.com/in/nguyenngo98/)
