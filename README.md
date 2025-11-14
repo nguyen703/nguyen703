@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   + nguyenngohoai98@gmail.com
   + [LinkedIn](https://www.linkedin.com/in/nguyenngo98/)
-- 🍵 Take a look at my [Thésaurus app](https://app-thesaurus.studio/)
+- 🍵 Take a look at my [Thésaurus app](https://lethesaurus.fr/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F118V9KH)
 
