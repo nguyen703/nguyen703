@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nguyen703
 - 👀 I love bringing real values to a business
-- ☀️ Master 2 in Software Engineering at @umontpellier
+- ☀️ Master in Software Engineering at @umontpellier
 - 🇻🇳 I speak 🇬🇧🇫🇷
 - 📫 How to reach me:
   + nguyenngohoai98@gmail.com
